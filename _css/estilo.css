@@ -18,12 +18,13 @@ p{
     text-align: justify;
     text-indent: 30px;
 }
-header#cabecalho img#icone {
+header#cabecalho img#icone{
     position: absolute;
-    left: -300%;
-    top: -10%;
+    left: -900px;
+    top: 40px;
 
 }
+
 /*Formataçao de imagens com legendas */
 figure.foto-legenda {
     position: relative;
