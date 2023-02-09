@@ -40,7 +40,7 @@ header#cab h1{
     font-family: 'Titillium Web', sans-serif;
     font-size: 30pt;
     color: rgb(15, 15, 15);
-    text-shadow: 1px, 1px, 1px ,.6;
+    text-shadow: 1px, auto, 1px ,auto;
     padding: 0px;
     margin-bottom: 0px;
 
@@ -115,4 +115,17 @@ nav#menu a {
 nav#menu a:hover{
     color: white;
 
+}
+section#corpo{
+    display: block;
+    width: 200;
+    float: left;
+}
+aside#lateral {
+    display: block;
+    width: 200;
+    float: right;
+}
+footer#rodape {
+left: 600;
 }
