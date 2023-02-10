@@ -12,7 +12,7 @@ body{
 div#interface {
     width: 900px;
     background-color: rgb(245, 239, 239);
-    margin: 30px 10px 10px 10px;
+    margin: 30px  auto 10px auto;
     box-shadow: 0px 0px 10px black;
     padding: 10px;
     
@@ -114,18 +114,19 @@ nav#menu a {
 }
 nav#menu a:hover{
     color: white;
+    text-decoration: underline;
 
 }
 section#corpo{
     display: block;
-    width: 200;
+    width: 600px;
     float: left;
 }
 aside#lateral {
     display: block;
     width: 200;
-    float: right;
+    float: left;
 }
 footer#rodape {
-left: 600;
+
 }
